@@ -1,0 +1,19 @@
+/*documento css*/
+body{background-color: rgb(145, 138, 111);}
+
+h1{background-color: #dacba1;}
+
+h1{color: blue; 
+    font-size: 32px; 
+    line-height: 140%; 
+    text-decoration: underline; 
+    text-align: center;}
+
+h2, h3{color:rgb(205, 12, 1);}
+
+h4{color: blue;}
+
+h5, h6{color: brown;}
+
+p{color: blue;}
+
